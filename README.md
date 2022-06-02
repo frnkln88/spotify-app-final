@@ -3,6 +3,8 @@
 
 Good Vibes Only is a Spotify streaming app that is centered around the playlists that users have curated. It allows users to play music exclusively through their own playlists, thus giving each user a personalized listening experience that does not introduce any music that the user isn't already familiar with.
 
+IMPORTANT: You must be logged in to the official Spotify client/app on any device and have played a song on it for full functionality of this application.
+
 Good Vibes Only was built using the Next.js framework in conjunction with TailwindCSS, interacting with the official Spotify API along through the third-party spotify-web-api-node:
 
 https://github.com/thelinmichael/spotify-web-api-node
