@@ -7,6 +7,12 @@ Good Vibes Only was built using the Next.js framework in conjunction with Tailwi
 
 https://github.com/thelinmichael/spotify-web-api-node
 
+The project was then deployed to Heroku.
+
+# Heroku URL
+
+https://spotify-app-final.herokuapp.com/
+
 # User Stories
 
 A User should be able to:
