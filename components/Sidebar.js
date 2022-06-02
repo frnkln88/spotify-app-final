@@ -19,10 +19,10 @@ function Sidebar() {
       });
     }
   }, [session, spotifyWebApi]);
-  
+
   return (
     <div
-      className="text-gray-400 p-5 text-s lg:text-sm border-r scrollbar-hide border-gray-800 
+      className="text-gray-400 p-5 text-s border-r scrollbar-hide border-gray-800 
                     overflow-y-scroll h-screen sm:max-w-[12rem] lg:max-2-[15rem] hidden md:inline-flex pb-35"
     >
       <div className="space-y-3">
